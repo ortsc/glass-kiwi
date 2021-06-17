@@ -1,6 +1,10 @@
 ## Glass Kiwi is a game I did for GMTK Game Jam 2021 in 48 hours, with other people.
+
+### Play Here: https://itch.io/jam/gmtk-2021/rate/1085935
+
 ### Credits:
-Song Credit: Yi Nantiro - Hummingbird (Free royalty song)
+
+#### Song Credit: Yi Nantiro - Hummingbird (Free royalty song)
 
 #### Sound Fx credits: 
 
