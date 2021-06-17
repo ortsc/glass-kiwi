@@ -1,0 +1,15 @@
+hsp = 0;
+vsp = 0;
+grv = 0.3;
+walksp = 4;
+gliding = false;
+global.hp = 10;
+jump_moment_y = 0
+jump_after_y = 0
+moment_hp = 0
+fall = false
+jump = -7
+global.inv = 0
+idle = spr_player_idle_r
+gliding_idle = spr_player_glide_r
+death = false
