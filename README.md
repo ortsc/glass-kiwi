@@ -18,4 +18,12 @@
 
 - wings flapping.wav by tommy_mooney
 
+### How to install:
+- Download and Install GameMaker Studio 2
+- Download the repository files into a folder
+- Click the "Open" button in the home page of GameMaker Studio 2
+- Open the folder you just created
+- Click the glass-kiwi.yyp file
+- Have fun with the game files :)
+
 #### OBS: The files corrupted in the middle of saturday, so I got only 24 hours to program the whole game
